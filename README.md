@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 はじめまして、syohei-03です！ (Hi, I'm syohei-03!)
 
-<!--
-**syohei-03/syohei-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌊 About Me | 私について
+38歳、「海と現場を知る異色のエンジニア」を目指して、茨城県から新しい大海原へ挑戦中の航海者です。
+これまで、ダイビングインストラクター、漁師、そして国内外の海中施工管理、多岐に海外移住、タイ屋台勤務等、多岐にわたる「現場」でキャリアを積んできました。この経験から得た**「究極のユーザー視点」**と、予測不能な状況下で培われた**「卓越したリスク管理能力」**を、これからのITキャリアにおける最大の武器としています。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Mission | 現在のミッション
+- **基本情報技術者試験 合格**
+- **双極性という、自分だけのユニークな「波」を乗りこなし、持続可能な学習と働き方を確立すること**
+- **過去のすべての経験と、未来の技術を繋ぐ「架け橋」となること**
+
+---
+
+### 🛠️ My Tools | 私の道具箱（学習中）
+- **言語:** `HTML` `CSS` `JavaScript` `Python` `SQL`
+- **ツール:** `VSCode` `Git & GitHub` `Docker` `Obsidian`
+- **知識体系:** `ネットワーク` `データベース` `セキュリティ` `プロジェクトマネジメント`
+
+---
+
+### 🧭 My Compass | 私の羅針盤
+私が目指すのは、ただコードを書くエンジニアではありません。
+
+現場で働く人々が本当に「助かる」と感じるシステムは何か。
+極限状況でも「絶対に落ちない」と言えるサービスはどう作れるのか。
+
+これまでの人生で向き合ってきた、リアルな課題とユーザーの痛みを、技術の力で解決すること。その一点を、私のキャリアの羅針盤として進んでいきます。
